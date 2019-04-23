@@ -8,7 +8,8 @@
           {{#unless this.devoured}}
             <div>
               <form action="/burgers/{{this.id}}?_method=PUT" method="POST">
-                <button type="submit" class='burgerAvailable'> {{this.burger_name}}</button>
+               <span class="burgerAvailable"> {{this.burger_name}}</span>
+                <button type="submit" class='burgerAvailable1'> eat it </button>
               </form>
             </div>
           {{/unless}}
