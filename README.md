@@ -1,5 +1,5 @@
 # burguer
-<h1> Eat the burguer app <h1>
+<h1> Eat the burguer app </h1>
 
 Created with orm and handlebars,
 This app was created using 
